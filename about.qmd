@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This website is built from Federal Aviation Administration (FAA) data on all flights within the United States during July 2024. Fields include information on delays, cancellations, the origin and destination, duration, time of day, and airline carrier. The summary statistics used to create the visualizations were generated using queries in MySQL and further processed in R. The code to generate the visualization and the website itself can be found on [GitHub](https://github.com/idai21/dsan-6300-mini-project).
