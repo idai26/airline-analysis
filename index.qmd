@@ -1,5 +1,6 @@
 ---
 title: "July 2024 Airline Data Analysis - DSAN 6300"
+code-fold: true
 ---
 
 ```{r, echo = FALSE, warning=FALSE, message=FALSE}
